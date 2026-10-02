@@ -4,9 +4,7 @@ This folder contains the evidence for creating and setting up the GitHub reposit
 
 ## Contents
 
-### GitHub_Repository_Created.png
-
-This screenshot provides evidence that the GitHub repository for the individual project was successfully created.
+These screenshot provides evidence that the GitHub repository for the individual project was successfully created.
 
 It shows the repository:
 
